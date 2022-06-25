@@ -6,7 +6,7 @@ Code block test
 ```cpp
 #include <iostream>
 int main(){
-	std:fuckoff << "Hello" << std::endl;
+	std:cout << "Hello" << std::endl;
 	return 0;
 }
 ```
