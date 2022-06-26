@@ -1,4 +1,6 @@
 # Summary
 
-- [Competitve Programming](./CompetitiveProgramming.md)
-    - [Intro](./CompetitiveProgramming.md)
+- [Must Read!](./must-read.md)
+
+- [Competitve Programming](./cp/CompetitiveProgramming.md)
+    - [Intro](./cp/CompetitiveProgramming.md)
