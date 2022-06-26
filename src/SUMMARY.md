@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Competitve Programming](./CompetitiveProgramming.md)
+    - [Intro](./CompetitiveProgramming.md)
