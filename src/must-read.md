@@ -10,6 +10,6 @@ Before going into the actual notes, there are a couple of things you should know
     - Data structures & Algorithms
     - C++
     - Python
-    - etc. Basically, I am tutored by [Amirshokh](amir.uz) and most of my notes will correspond to his plan.
-- If you need additional information on any of the notes you can reach me at my [telergam](t.me/irgashevsamir)
+    - etc. Basically, I am tutored by [Amirshokh](hhtp://amir.uz) and most of my notes will correspond to his plan.
+- If you need additional information on any of the notes you can reach me at my [telergam](https://www.t.me/irgashevsamir)
 - There are no comments but if you really want to criticize my notes, commit a change to the note at the end of it, and leave your contact info so I can ~~beat you~~ talk to you.
