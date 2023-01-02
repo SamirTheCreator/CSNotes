@@ -4,9 +4,9 @@
 
 - [Competitve Programming](./cp/CompetitiveProgramming.md)
     - [Intro](./cp/CompetitiveProgramming.md)
-    - [Week 1](./cp/Week1.md)
-    - [Week 2](./cp/Week2.md)
-    - [Week 3](./cp/eda.md)
-    
+    - [cp.0](./cp/Week1.md)
+    - [cp.1](./cp/Week2.md)
+    - [cp.2](./cp/eda.md)
+
 - [Discrete Maths]()
     - [Propositional logic](./dm/Prop.md)
