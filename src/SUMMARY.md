@@ -2,7 +2,7 @@
 
 - [Must Read!](./must-read.md)
 
-- [Competitve Programming](./cp/CompetitiveProgramming.md)
+- [Competitve Programming]()
     - [Intro](./cp/CompetitiveProgramming.md)
     - [cp.0](./cp/Week1.md)
     - [cp.1](./cp/Week2.md)
