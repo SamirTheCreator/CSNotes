@@ -10,3 +10,7 @@
 
 - [Discrete Maths]()
     - [Propositional logic](./dm/Prop.md)
+
+- [System Design]()
+    - [Week 1](./sp/week1)
+
