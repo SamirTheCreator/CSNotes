@@ -1,0 +1,66 @@
+# Lesson 1
+
+## Section
+
+Section number == Group number == 002
+
+On Mondays and Wednesdays on 11:00
+
+## Rules
+
+Basic rules in short
+
+- no phones or laptops
+- no sleeping
+- no drinking&eating (& chewing gum)
+
+## Lab assignments
+
+### Team formation
+
+Teams consist of 4-6 people, there's a team leader
+
+Leader should submit team by 21st Feb or all get 0 for all labs.
+
+Submit to official email - n.abdulrahim@inha.uz
+
+## Course overview
+
+### Topics to cover
+
+- mnemonics (Assembly language instructions, e.g. "Add")
+- registers (e.g. ADD R0 R1 R2)
+- assembler
+- data representation
+- modular programming
+- linking (Linker)
+- memory: DRAM, SRAM (DDR4, DDR5)
+
+misc note: OS takes files from harddisk to DRAM 
+
+- inside the CPU 
+    - 64 registers (in case if 64bit processor)
+    - ALU (arithmetic logic unit)
+    - cache (SRAM) (L1 L2 L3 ...)
+- memory hierarchy
+- virtual memory (hard disk and ...)
+- processes & threads
+- syncronization
+
+## Course objectives
+
+ABET - Accreditation both for engineering and technology
+
+ABEEK - Accreditation both for engineering and education in Korea
+
+Program Outcomes:
+- PO1, PO3, PO4, PO5, PO7
+
+## Grading
+
+|   |   |
+|---|---|
+|Labs|40%|
+|Attendance|10%|
+|Mid|25%|
+|Final|25%|
