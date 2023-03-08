@@ -15,5 +15,5 @@
     - [Week 1](./sp/week1)
 
 - [Computer Architecture]()
-    - [2. Bits, Data Types, and Operations]()
-        -[2.1](ComputerArchitecture/2/2d1d1.md)
+    - [Bits, Data Types, and Operations]()
+        -[Bits and Data Types](ComputerArchitecture/2/2d1d1.md)
