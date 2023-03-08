@@ -10,7 +10,7 @@
 
 # Discrete Mathematics
 
-- [Propositional logic](./dm/Prop.md)
+[Propositional logic](./dm/Prop.md)
 
 # Systems Design
 
