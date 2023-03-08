@@ -14,6 +14,8 @@
 - [System Design]()
     - [Week 1](./sp/week1)
 
+# Computer Architecture
+
 - [Computer Architecture]()
     - [Bits, Data Types, and Operations]()
-        -[Bits and Data Types](ComputerArchitecture/2/2d1d1.md)
+        - [Bits and Data Types](ComputerArchitecture/2/2d1d1.md)
