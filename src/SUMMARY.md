@@ -10,12 +10,13 @@
 
 # Discrete Mathematics
 
-[Propositional logic](./dm/Prop.md)
+- [Propositional logic](./dm/Prop.md)
 
 # Systems Design
 
-- [System Design]()
-    - [Week 1](./sp/week1)
+[System Design]()
+
+- [Week 1](./sp/week1)
 
 # Computer Architecture
 
