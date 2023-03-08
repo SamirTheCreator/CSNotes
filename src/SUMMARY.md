@@ -14,8 +14,6 @@
 
 # Systems Design
 
-[System Design]()
-
 - [Week 1](./sp/week1)
 
 # Computer Architecture
