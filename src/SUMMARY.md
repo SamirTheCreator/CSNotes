@@ -16,4 +16,4 @@
 
 - [Computer Architecture]()
     - [2. Bits, Data Types, and Operations]()
-        -[2.1.1](ComputerArchitecture/2/2d1d1.md)
+        -[2.1](ComputerArchitecture/2/2d1d1.md)
