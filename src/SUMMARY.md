@@ -15,4 +15,5 @@
     - [Week 1](./sp/week1)
 
 - [Computer Architecture]()
-    - [Chapter 2](ComputerArchitecture/Chapter2.md)
+    - [Chapter 2]()
+        -[2.1.1](ComputerArchitecture/2/2d1d1.md)
