@@ -8,14 +8,16 @@
     - [cp.1](./cp/Week2.md)
     - [cp.2](./cp/eda.md)
 
-- [Discrete Maths]()
-    - [Propositional logic](./dm/Prop.md)
+# Discrete Mathematics
+
+- [Propositional logic](./dm/Prop.md)
+
+# Systems Design
 
 - [System Design]()
     - [Week 1](./sp/week1)
 
 # Computer Architecture
 
-- [Computer Architecture]()
-    - [Bits, Data Types, and Operations]()
-        - [Bits and Data Types](ComputerArchitecture/2/2d1d1.md)
+- [Bits, Data Types, and Operations]()
+    - [Bits and Data Types](ComputerArchitecture/2/2d1d1.md)
