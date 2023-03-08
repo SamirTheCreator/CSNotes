@@ -20,3 +20,4 @@
 
 - [Bits, Data Types, and Operations]()
     - [Bits and Data Types](ComputerArchitecture/2/2d1d1.md)
+    - [Integer Data Types](ComputerArchitecture/2/2d2.md)
