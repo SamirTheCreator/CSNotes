@@ -14,3 +14,5 @@
 - [System Design]()
     - [Week 1](./sp/week1)
 
+- [Computer Architecture]()
+    - [Chapter 2](ComputerArchitecture/Chapter2.md)
